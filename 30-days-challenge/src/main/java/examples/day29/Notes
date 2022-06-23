@@ -1,0 +1,41 @@
+// Variables
+
+String s = "Hello world"; // Java
+s = "Hello world"         // Python
+string s = "Hello world"  // C++
+
+// Operations
+
+int x = 4 + 4;      // Java
+(define x (+ 4 4))  // functional programming language (Lisp)
+
+
+// Control-flow statements
+
+// Java
+int counter = 5;
+while (counter > 0) {
+    System.out.println(counter);
+    counter--;
+}
+
+// Swift (iOS development)
+var counter = 5
+while counter > 0 {
+    println(counter)
+    counter--
+}
+
+// Functions
+
+// Java
+public static String sayHello(String name) {
+    String say = "Hello" + name;
+    return say;
+}
+
+// Ruby --> CSS, html, javascript (web development)
+def sayHello(name)
+    say = "Hello" + name
+    return var
+end
